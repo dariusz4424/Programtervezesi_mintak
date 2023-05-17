@@ -1,0 +1,7 @@
+C:\Users\LaciPC\source\repos\Whislist_Programtervezési_mintak\Whislist_Programtervezési_mintak\obj\Debug\Whislist_Programtervezési_mintak.csproj.AssemblyReference.cache
+C:\Users\LaciPC\source\repos\Whislist_Programtervezési_mintak\Whislist_Programtervezési_mintak\obj\Debug\Whislist_Programtervezési_mintak.csproj.CoreCompileInputs.cache
+C:\Users\LaciPC\source\repos\Whislist_Programtervezési_mintak\Whislist_Programtervezési_mintak\bin\Debug\Whislist_Programtervezési_mintak.exe.config
+C:\Users\LaciPC\source\repos\Whislist_Programtervezési_mintak\Whislist_Programtervezési_mintak\bin\Debug\Whislist_Programtervezési_mintak.exe
+C:\Users\LaciPC\source\repos\Whislist_Programtervezési_mintak\Whislist_Programtervezési_mintak\bin\Debug\Whislist_Programtervezési_mintak.pdb
+C:\Users\LaciPC\source\repos\Whislist_Programtervezési_mintak\Whislist_Programtervezési_mintak\obj\Debug\Whislist_Programtervezési_mintak.exe
+C:\Users\LaciPC\source\repos\Whislist_Programtervezési_mintak\Whislist_Programtervezési_mintak\obj\Debug\Whislist_Programtervezési_mintak.pdb
