@@ -1,0 +1,16 @@
+C:\Users\LaciPC\source\repos\StoreWishlist\bin\Debug\net5.0\StoreWishlist.exe
+C:\Users\LaciPC\source\repos\StoreWishlist\bin\Debug\net5.0\StoreWishlist.deps.json
+C:\Users\LaciPC\source\repos\StoreWishlist\bin\Debug\net5.0\StoreWishlist.runtimeconfig.json
+C:\Users\LaciPC\source\repos\StoreWishlist\bin\Debug\net5.0\StoreWishlist.runtimeconfig.dev.json
+C:\Users\LaciPC\source\repos\StoreWishlist\bin\Debug\net5.0\StoreWishlist.dll
+C:\Users\LaciPC\source\repos\StoreWishlist\bin\Debug\net5.0\ref\StoreWishlist.dll
+C:\Users\LaciPC\source\repos\StoreWishlist\bin\Debug\net5.0\StoreWishlist.pdb
+C:\Users\LaciPC\source\repos\StoreWishlist\obj\Debug\net5.0\StoreWishlist.csproj.AssemblyReference.cache
+C:\Users\LaciPC\source\repos\StoreWishlist\obj\Debug\net5.0\StoreWishlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaciPC\source\repos\StoreWishlist\obj\Debug\net5.0\StoreWishlist.AssemblyInfoInputs.cache
+C:\Users\LaciPC\source\repos\StoreWishlist\obj\Debug\net5.0\StoreWishlist.AssemblyInfo.cs
+C:\Users\LaciPC\source\repos\StoreWishlist\obj\Debug\net5.0\StoreWishlist.csproj.CoreCompileInputs.cache
+C:\Users\LaciPC\source\repos\StoreWishlist\obj\Debug\net5.0\StoreWishlist.dll
+C:\Users\LaciPC\source\repos\StoreWishlist\obj\Debug\net5.0\ref\StoreWishlist.dll
+C:\Users\LaciPC\source\repos\StoreWishlist\obj\Debug\net5.0\StoreWishlist.pdb
+C:\Users\LaciPC\source\repos\StoreWishlist\obj\Debug\net5.0\StoreWishlist.genruntimeconfig.cache
